@@ -1,0 +1,13 @@
+# Core dependencies for Crypto Dashboard
+asyncio
+flask
+matplotlib
+moralis
+openai==1.14.2
+openai_agents
+pandas
+plotly
+python-dotenv
+requests
+streamlit
+streamlit==1.40.2
