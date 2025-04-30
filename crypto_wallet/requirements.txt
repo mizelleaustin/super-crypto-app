@@ -1,0 +1,6 @@
+# Core dependencies for Crypto Dashboard
+pandas
+requests
+python-dotenv
+matplotlib
+moralis
